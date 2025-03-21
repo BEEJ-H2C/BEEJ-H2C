@@ -1,0 +1,53 @@
+Crop Name,Soil Type,N Content (kg/ha),P Content (kg/ha),K Content (kg/ha),pH
+Wheat,Black Soil,80-120,20-40,40-80,6.0-7.5
+Corn/Maize,Black Soil,150-250,30-50,80-120,5.8-7.0
+Rice,Black Soil,100-150,20-35,60-100,5.5-6.5
+Barley,Black Soil,60-90,20-30,40-70,6.0-7.0
+Oats,Black Soil,60-80,15-30,35-60,5.5-7.0
+Soybeans,Black Soil,0-50,20-40,50-90,6.0-7.0
+Cotton,Black Soil,100-150,30-60,80-120,5.8-7.0
+Sunflower,Black Soil,70-120,25-40,60-100,6.0-7.5
+Sugarcane,Black Soil,150-250,40-80,120-180,5.5-7.5
+Sorghum,Black Soil,70-120,20-40,60-90,6.0-7.0
+Tomato,Black Soil,100-150,30-50,100-150,6.0-6.8
+Potato,Peat Soil,120-180,40-60,140-200,5.0-6.5
+Onion,Black Soil,80-120,30-50,80-120,6.0-7.0
+Cabbage,Black Soil,150-200,40-60,100-150,6.0-7.5
+Carrot,Peat Soil,80-120,30-50,80-120,5.5-7.0
+Spinach,Black Soil,100-150,30-50,80-120,6.0-7.5
+Bell Pepper,Black Soil,100-150,30-50,100-150,5.5-7.0
+Cucumber,Black Soil,100-150,30-50,100-150,5.5-7.0
+Lettuce,Black Soil,80-120,30-50,80-120,6.0-7.0
+Broccoli,Black Soil,120-180,30-50,100-150,6.0-7.0
+Apple,Yellow Soil,50-100,20-40,60-120,5.5-6.5
+Grape,Laterite Soil,40-80,20-40,60-100,6.0-7.0
+Strawberry,Peat Soil,60-100,30-50,60-120,5.5-6.5
+Orange,Laterite Soil,120-200,30-50,100-150,5.5-6.5
+Mango,Laterite Soil,80-120,30-50,100-150,5.5-7.0
+Banana,Laterite Soil,250-350,50-80,250-350,5.5-6.5
+Watermelon,Yellow Soil,80-120,30-50,80-120,5.8-6.8
+Blueberry,Peat Soil,20-40,10-20,30-60,4.5-5.5
+Peach,Yellow Soil,60-100,30-50,60-100,6.0-7.0
+Avocado,Laterite Soil,60-120,30-60,80-150,5.5-6.5
+Chickpea,Black Soil,20-40,30-60,30-60,6.0-7.5
+Lentil,Black Soil,20-30,20-40,20-40,6.0-7.0
+Peanut,Yellow Soil,20-40,30-50,40-80,5.5-7.0
+Field Pea,Black Soil,20-40,20-40,30-60,6.0-7.0
+Fava Bean,Black Soil,20-40,30-50,40-80,6.0-7.5
+Black Gram,Black Soil,20-30,30-40,30-50,6.0-7.5
+Green Gram,Black Soil,20-30,30-40,30-50,6.0-7.5
+Rapeseed/Canola,Black Soil,80-120,20-40,60-80,5.5-7.0
+Sesame,Black Soil,40-60,20-30,40-60,5.5-7.0
+Flax/Linseed,Black Soil,50-80,20-30,40-60,5.5-7.0
+Safflower,Black Soil,60-100,20-40,40-60,6.0-7.5
+Mustard,Black Soil,60-100,20-40,40-60,5.5-7.0
+Castor,Black Soil,60-100,30-50,40-60,6.0-7.5
+Millet,Laterite Soil,40-80,15-30,30-60,5.5-7.0
+Rye,Yellow Soil,60-90,20-30,40-70,5.5-7.0
+Sweet Potato,Cinder Soil,60-100,30-50,80-150,5.5-6.5
+Garlic,Black Soil,100-150,30-50,80-120,6.0-7.0
+Eggplant,Black Soil,100-150,30-50,100-150,5.5-6.5
+Pear,Yellow Soil,50-100,20-40,60-120,6.0-7.0
+Cherry,Yellow Soil,60-100,30-50,60-120,6.0-7.5
+Kidney Bean,Black Soil,20-40,30-50,40-80,6.0-7.0
+Pigeon Pea,Laterite Soil,20-40,30-50,30-60,5.5-7.0
