@@ -128,7 +128,7 @@ def extract_np_ph_values(image):
 #     plt.show()
 
 # Extract values and store them as **global variables** for direct import
-address = "Konkan, Maharashtra, India"  # Replace with actual location
+address = "Raigad, Maharashtra, India"  # Replace with actual location
 lat, lon = get_coordinates(address, GOOGLE_API_KEY)
 
 # Hyperspectral Evalscript
