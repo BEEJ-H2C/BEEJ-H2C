@@ -4,9 +4,9 @@ import matplotlib.pyplot as plt
 from sentinelhub import SHConfig, MimeType, SentinelHubRequest, CRS, BBox, bbox_to_dimensions, DataCollection
 
 # 🔹 Your API Keys
-GOOGLE_API_KEY = "AIzaSyAqSxlxXzISipDBjg5SnzEHZP_ZjUR1xHI"
-SENTINEL_CLIENT_ID = "1495d359-655c-4e7b-b6a6-dbb630b9b5fc"
-SENTINEL_CLIENT_SECRET = "8JDWLxckTL48btkfKxDimkgtxeUuWnQG"
+GOOGLE_API_KEY = ""
+SENTINEL_CLIENT_ID = ""
+SENTINEL_CLIENT_SECRET = ""
 
 # 🔹 Sentinel Configuration
 config = SHConfig()
